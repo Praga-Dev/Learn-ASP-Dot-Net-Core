@@ -1,7 +1,5 @@
 # ASP.NET Core Developer Roadmap
-## RoadMap
-
-### Pre-Requisites
+## Pre-Requisites
 1. Languages
    1. [C#](https://youtube.com/playlist?list=PLAC325451207E3105)
    2. [HTML](https://www.w3schools.com/html/default.asp)
